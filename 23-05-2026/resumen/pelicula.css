@@ -1,0 +1,36 @@
+body{
+    background-color: #f5f5f5;
+}
+
+h1{
+    font-weight: bold;
+}
+
+/* Carrusel */
+.carousel-inner img{
+    height: 500px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+/* Trailer */
+.trailer-ajustado iframe {
+    height: 500px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.accordion-item{
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+    margin-bottom: 12px;
+}
+.accordion-button{
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+}
+
+
+
