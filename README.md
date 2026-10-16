@@ -4,9 +4,9 @@
 
 ## Datos del estudiante
 
-**Nombre:** [Tu nombre completo]
+**Nombre:** Abel Gómez
 
-**Correo Institucional:** [tu correo institucional]
+**Correo Institucional:** abel.gomez@tecnologicoliceocristiano.edu.ec
 
 ---
 
